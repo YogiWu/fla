@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "./static/css/main.94526c80.chunk.css",
-    "main.js": "./static/js/main.57d53b91.chunk.js",
-    "main.js.map": "./static/js/main.57d53b91.chunk.js.map",
+    "main.css": "./static/css/main.75722f6d.chunk.css",
+    "main.js": "./static/js/main.bda2699d.chunk.js",
+    "main.js.map": "./static/js/main.bda2699d.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.de07ab9b.js",
     "runtime-main.js.map": "./static/js/runtime-main.de07ab9b.js.map",
-    "static/css/2.8660ef17.chunk.css": "./static/css/2.8660ef17.chunk.css",
-    "static/js/2.314ef9ab.chunk.js": "./static/js/2.314ef9ab.chunk.js",
-    "static/js/2.314ef9ab.chunk.js.map": "./static/js/2.314ef9ab.chunk.js.map",
+    "static/css/2.49e3b1cd.chunk.css": "./static/css/2.49e3b1cd.chunk.css",
+    "static/js/2.35b9efd3.chunk.js": "./static/js/2.35b9efd3.chunk.js",
+    "static/js/2.35b9efd3.chunk.js.map": "./static/js/2.35b9efd3.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.e08eeae4ec7d8630391c52b9b7b679b0.js": "./precache-manifest.e08eeae4ec7d8630391c52b9b7b679b0.js",
+    "precache-manifest.c136430f5012927a64d38006dfdae7cd.js": "./precache-manifest.c136430f5012927a64d38006dfdae7cd.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/2.8660ef17.chunk.css.map": "./static/css/2.8660ef17.chunk.css.map",
-    "static/css/main.94526c80.chunk.css.map": "./static/css/main.94526c80.chunk.css.map",
-    "static/js/2.314ef9ab.chunk.js.LICENSE": "./static/js/2.314ef9ab.chunk.js.LICENSE",
-    "static/media/course.module.scss": "./static/media/course-bg.43631673.svg",
+    "static/css/2.49e3b1cd.chunk.css.map": "./static/css/2.49e3b1cd.chunk.css.map",
+    "static/css/main.75722f6d.chunk.css.map": "./static/css/main.75722f6d.chunk.css.map",
+    "static/js/2.35b9efd3.chunk.js.LICENSE": "./static/js/2.35b9efd3.chunk.js.LICENSE",
+    "static/media/course.module.scss": "./static/media/price_bg.29985712.png",
     "static/media/courseBlock.sass": "./static/media/label-highlight.5b874c49.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.de07ab9b.js",
-    "static/css/2.8660ef17.chunk.css",
-    "static/js/2.314ef9ab.chunk.js",
-    "static/css/main.94526c80.chunk.css",
-    "static/js/main.57d53b91.chunk.js"
+    "static/css/2.49e3b1cd.chunk.css",
+    "static/js/2.35b9efd3.chunk.js",
+    "static/css/main.75722f6d.chunk.css",
+    "static/js/main.bda2699d.chunk.js"
   ]
 }
