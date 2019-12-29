@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "./static/css/main.cc5eb1dd.chunk.css",
-    "main.js": "./static/js/main.e26a171d.chunk.js",
-    "main.js.map": "./static/js/main.e26a171d.chunk.js.map",
+    "main.css": "./static/css/main.0506fc24.chunk.css",
+    "main.js": "./static/js/main.ec8ca634.chunk.js",
+    "main.js.map": "./static/js/main.ec8ca634.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.de07ab9b.js",
     "runtime-main.js.map": "./static/js/runtime-main.de07ab9b.js.map",
-    "static/css/2.289427ce.chunk.css": "./static/css/2.289427ce.chunk.css",
-    "static/js/2.cf28d005.chunk.js": "./static/js/2.cf28d005.chunk.js",
-    "static/js/2.cf28d005.chunk.js.map": "./static/js/2.cf28d005.chunk.js.map",
+    "static/css/2.2b27148f.chunk.css": "./static/css/2.2b27148f.chunk.css",
+    "static/js/2.6cfbb003.chunk.js": "./static/js/2.6cfbb003.chunk.js",
+    "static/js/2.6cfbb003.chunk.js.map": "./static/js/2.6cfbb003.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.f7e2968178b6214415b4b9e7f3404210.js": "./precache-manifest.f7e2968178b6214415b4b9e7f3404210.js",
+    "precache-manifest.f22da1e6a8061bf7db630ed14ddfa903.js": "./precache-manifest.f22da1e6a8061bf7db630ed14ddfa903.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/2.289427ce.chunk.css.map": "./static/css/2.289427ce.chunk.css.map",
-    "static/css/main.cc5eb1dd.chunk.css.map": "./static/css/main.cc5eb1dd.chunk.css.map",
-    "static/js/2.cf28d005.chunk.js.LICENSE": "./static/js/2.cf28d005.chunk.js.LICENSE",
+    "static/css/2.2b27148f.chunk.css.map": "./static/css/2.2b27148f.chunk.css.map",
+    "static/css/main.0506fc24.chunk.css.map": "./static/css/main.0506fc24.chunk.css.map",
+    "static/js/2.6cfbb003.chunk.js.LICENSE": "./static/js/2.6cfbb003.chunk.js.LICENSE",
     "static/media/course.module.scss": "./static/media/price_bg.29985712.png",
     "static/media/index.css": "./static/media/element-icons.d2f69a92.woff",
     "static/media/courseBlock.sass": "./static/media/label-highlight.5b874c49.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.de07ab9b.js",
-    "static/css/2.289427ce.chunk.css",
-    "static/js/2.cf28d005.chunk.js",
-    "static/css/main.cc5eb1dd.chunk.css",
-    "static/js/main.e26a171d.chunk.js"
+    "static/css/2.2b27148f.chunk.css",
+    "static/js/2.6cfbb003.chunk.js",
+    "static/css/main.0506fc24.chunk.css",
+    "static/js/main.ec8ca634.chunk.js"
   ]
 }
